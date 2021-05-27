@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.10.0.RJTCNXM/miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
+  ROM_URL: https://jaist.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.3.25/xiaomi.eu_multi_HMNote7_21.3.25_v12-10.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
